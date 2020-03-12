@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">caixa</string>
+
+<!--    PRIMEIRA TELA-->
+    <string name="botaoAcessar">ACESSAR</string>
+    <string name="botaoCancelar">CANCELAR</string>
+
+<!--    SEGUNDA TELA-->
+    <string name="botaoAbastecer">Abastecer</string>
+    <string name="botaoSaldo">Saldo</string>
+    <string name="botaoSair">SAIR</string>
+
+    <string name="notas100">Notas de 100:</string>
+    <string name="notas50">Notas de 50:</string>
+    <string name="notas20">Notas de 20:</string>
+    <string name="notas10">Notas de 10:</string>
+
+<!--    TERCEIRA TELA-->
+    <string name="inputSaque">Insira um valor para saque</string>
+    <string name="botaoConfirmar">CONFIRMAR</string>
+
+<!--    QUARTA TELA-->
+    <string name="saldoAtual">Saldo atual:</string>
+</resources>
